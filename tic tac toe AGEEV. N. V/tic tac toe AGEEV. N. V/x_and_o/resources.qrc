@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/fonts/Roboto-Medium.ttf</file>
+        <file>resources/fonts/Roboto-MediumItalic.ttf</file>
+        <file>resources/images/bg.png</file>
+        <file>resources/images/cross_large.png</file>
+        <file>resources/images/cross_small.png</file>
+        <file>resources/images/name.png</file>
+        <file>resources/images/title_ico.png</file>
+        <file>resources/images/zero_large.png</file>
+        <file>resources/images/zero_small.png</file>
+        <file>resources/images/bg.jpg</file>
+        <file>resources/images/bcg.jpg</file>
+        <file>resources/images/set.png</file>
+        <file>resources/sounds/sound.wav</file>
+        <file>resources/sounds/enemy.wav</file>
+        <file>resources/sounds/play.wav</file>
+        <file>resources/sounds/setSound.wav</file>
+        <file>resources/sounds/btnLost.wav</file>
+        <file>resources/sounds/soundLose.wav</file>
+        <file>resources/sounds/soundWin.wav</file>
+        <file>resources/images/music.png</file>
+        <file>resources/images/icon.ico</file>
+        <file>resources/sounds/fonMus.mp3</file>
+        <file>resources/sounds/fonMusGuitar.mp3</file>
+    </qresource>
+</RCC>
